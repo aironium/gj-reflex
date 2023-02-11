@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "1.0.0.2",
+  "option_operagx_next_version": "1.0.0.3",
+  "option_operagx_game_name": "Reflex Operator",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "dc4dc595-a699-4eb1-95dc-85a33739ffd8",
+  "option_operagx_team_name": "LarvaSoft",
+  "option_operagx_team_id": "6274ddf9-0539-4d10-80ec-a1368ebfb608",
+  "option_operagx_editUrl": "https://create.gx.games/game/dc4dc595-a699-4eb1-95dc-85a33739ffd8/edit",
+  "option_operagx_internalShareUrl": "https://gx.games/games/i6pjc1/reflex-operator/tracks/e0ff0c4b-c00e-4468-ac18-35f04aab1b55/",
+  "option_operagx_publicShareUrl": "https://gx.games/games/i6pjc1/reflex-operator/",
+}
